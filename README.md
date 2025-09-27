@@ -4,13 +4,68 @@
 
 ---
 
-## 🚀 Languages & Tools  
+
+## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,r,c,cpp,html,css,js,php,java,vb" height="40" />
+</p>
+
+**Others:** Turbo C, Assembly Language, Advanced Java  
+
+---
+
+## 🤖 Data Science & AI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,sklearn,powerbi,mysql" height="40" />
+</p>
+
+**Skills:** Machine Learning, Deep Learning, AI, Data Analysis, Data Visualization, SQL / MySQL, Power BI, Convolutional Neural Networks (CNN)  
+
+---
+
+## 📚 Python Libraries & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,sklearn,tensorflow,pytorch,keras" height="40" />
 </p>
 
 ---
+
+## 🛠️ Development & Notebook Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jupyter,colab,anaconda,kaggle,streamlit" height="40" />
+</p>
+
+---
+
+## 🌐 IoT & Embedded Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="40" />
+</p>
+
+**Skills:** Internet of Things (IoT), UAV Development  
+
+---
+
+## 🖥️ Software & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,apache,xampp,wamp,vscode,phpmyadmin" height="40" />
+</p>
+
+---
+
+## 🔧 Other Technical Skills
+
+- Data Collection  
+- Data Cleaning  
+- Data Modeling  
+- Additive Manufacturing  
+
 
 ## 📊 GitHub Stats  
 
