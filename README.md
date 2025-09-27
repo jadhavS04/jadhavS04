@@ -8,7 +8,7 @@
 ## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,c,cpp,html,css,js,php,java,vb" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,r,c,cpp,html,css,js,php,java,vb" height="80" />
 </p>
 
 **Others:** Turbo C, Assembly Language, Advanced Java  
@@ -18,7 +18,7 @@
 ## 🤖 Data Science & AI
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,sklearn,powerbi,mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,sklearn,powerbi,mysql" height="80" />
 </p>
 
 **Skills:** Machine Learning, Deep Learning, AI, Data Analysis, Data Visualization, SQL / MySQL, Power BI, Convolutional Neural Networks (CNN)  
@@ -28,7 +28,7 @@
 ## 📚 Python Libraries & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,sklearn,tensorflow,pytorch,keras" height="40" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,sklearn,tensorflow,pytorch,keras" height="80" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 ## 🛠️ Development & Notebook Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jupyter,colab,anaconda,kaggle,streamlit" height="40" />
+  <img src="https://skillicons.dev/icons?i=jupyter,colab,anaconda,kaggle,streamlit" height="80" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ## 🌐 IoT & Embedded Systems
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="40" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="80" />
 </p>
 
 **Skills:** Internet of Things (IoT), UAV Development  
@@ -54,7 +54,7 @@
 ## 🖥️ Software & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,apache,xampp,wamp,vscode,phpmyadmin" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux,apache,xampp,wamp,vscode,phpmyadmin" height="80" />
 </p>
 
 ---
