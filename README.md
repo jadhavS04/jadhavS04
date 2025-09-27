@@ -1,4 +1,3 @@
-# Shubham  
 
 # Hi there 👋, I'm Shubham Jadhav  
 
