@@ -5,7 +5,7 @@
 ---
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,c,cpp,html,css,js,php,java,tensorflow,pytorch,sklearn,mysql,numpy,pandas,matplotlib,seaborn,anaconda,arduino,raspberrypi,linux,vscode" height="500" />
+  <img src="https://skillicons.dev/icons?i=python,r,c,cpp,html,css,js,php,java,tensorflow,pytorch,sklearn,mysql,numpy,pandas,matplotlib,seaborn,anaconda,arduino,raspberrypi,linux,vscode" height="1500" />
 </p>
 
 ---
