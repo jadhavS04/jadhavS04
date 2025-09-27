@@ -18,7 +18,8 @@
   <img src="https://skillicons.dev/icons?i=pytorch" height="80" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="80" />
   <img src="https://skillicons.dev/icons?i=mysql" height="80" />
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" height="80" />
   <img src="https://skillicons.dev/icons?i=anaconda" height="80" />
