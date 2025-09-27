@@ -31,30 +31,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" height="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="80" />
   <img 
-</p> 
-
 <p align="center">
-  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql" height="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg" height="80" />
-
-  <!-- Python Libraries -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" height="80" />
-
-  <!-- Platforms & Software -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wamp/wampserver-original.svg" height="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="80" />
 </p>
-
-
-<p align="center">
-  <!-- Other Skills as text -->
-  <b>Other Technical Skills:</b> Data Collection, Data Cleaning, Data Modeling, Additive Manufacturing, Internet of Things (IoT), UAV Development, Machine Learning, Deep Learning, AI, Data Analysis, Data Visualization, SQL / MySQL, Power BI, Convolutional Neural Networks (CNN), Turbo C, Assembly Language, Advanced Java
-</p>
-
 
 ---
 
