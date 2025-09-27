@@ -23,7 +23,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jadhavS04&theme=radical)  
 
-![Snake animation](https://github.com/jadhavS04/jadhavS04/blob/output/github-contribution-grid-snake.svg)  
+![GitHub Snake](https://github.com/jadhavS04/jadhavS04/blob/main/github-contribution-grid-snake.svg)
+
 
 ---
 
