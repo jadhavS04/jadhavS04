@@ -33,7 +33,6 @@
   <img 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg" height="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="80" />
 </p>
