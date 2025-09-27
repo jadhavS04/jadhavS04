@@ -21,7 +21,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" height="80" />
   <img src="https://skillicons.dev/icons?i=anaconda" height="80" />
   <img src="https://skillicons.dev/icons?i=arduino" height="80" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="80" />
