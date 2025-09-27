@@ -22,4 +22,4 @@
 ## 🏆 Contributions  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical)  
 
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/jadhavS04/blob/output/github-contribution-grid-snake.svg)  
