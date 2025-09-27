@@ -4,29 +4,62 @@
 
 ---
 
+## 🛠️ Tools & Technologies
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="80" />
-  <img src="https://skillicons.dev/icons?i=r" height="80" />
-  <img src="https://skillicons.dev/icons?i=c" height="80" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="80" />
-  <img src="https://skillicons.dev/icons?i=html" height="80" />
-  <img src="https://skillicons.dev/icons?i=css" height="80" />
-  <img src="https://skillicons.dev/icons?i=js" height="80" />
-  <img src="https://skillicons.dev/icons?i=php" height="80" />
-  <img src="https://skillicons.dev/icons?i=java" height="80" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="80" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="80" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="80" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="80" />
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="80" />
+</p>
+
+<p align="center">
+  <!-- AI & Data Science -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" height="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="80" />
-  <img src="https://skillicons.dev/icons?i=anaconda" height="80" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="80" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="80" />
-  <img src="https://skillicons.dev/icons?i=linux" height="80" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" height="80" />
 </p>
+
+<p align="center">
+  <!-- Notebooks & Development Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" height="80" />
+</p>
+
+<p align="center">
+  <!-- IoT & Embedded Systems -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" height="80" />
+</p>
+
+<p align="center">
+  <!-- Platforms & Software -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg" height="80" />
+</p>
+
+<p align="center">
+  <!-- Other Skills as text -->
+  <b>Other Technical Skills:</b> Data Collection, Data Cleaning, Data Modeling, Additive Manufacturing, Internet of Things (IoT), UAV Development, Machine Learning, Deep Learning, AI, Data Analysis, Data Visualization, SQL / MySQL, Power BI, Convolutional Neural Networks (CNN), Turbo C, Assembly Language, Advanced Java
+</p>
+
 
 ---
 
