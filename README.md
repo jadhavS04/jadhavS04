@@ -1,4 +1,6 @@
 # Hi there 👋, I'm Shubham Jadhav  
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=jadhavS04&color=blueviolet)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science;Machine+Learning+%7C+Deep+Learning;Data+Visualization+%7C+NLP)](https://git.io/typing-svg)  
 
