@@ -51,7 +51,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jadhavS04&theme=radical)  
 
 
-![GitHub Snake](https://github.com/jadhavS04/jadhavS04/raw/main/github-contribution-grid-snake.svg)
 
 
 
