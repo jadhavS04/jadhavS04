@@ -2,16 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science;Machine+Learning+%7C+Deep+Learning;Data+Visualization+%7C+NLP)](https://git.io/typing-svg)  
 
-
-
-
-## 🛠️ Tools & Technologies
+---
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,c,cpp,html,css,js,php,java,tensorflow,pytorch,sklearn,mysql,numpy,pandas,matplotlib,seaborn,anaconda,arduino,raspberrypi,linux,vscode" height="500" />
 </p>
 
-
+---
 
 ## 📊 GitHub Stats  
 
