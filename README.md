@@ -4,8 +4,29 @@
 
 ---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,c,cpp,html,css,js,php,java,tensorflow,pytorch,sklearn,mysql,numpy,pandas,matplotlib,seaborn,anaconda,arduino,raspberrypi,linux,vscode" height="1500" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="80" />
+  <img src="https://skillicons.dev/icons?i=r" height="80" />
+  <img src="https://skillicons.dev/icons?i=c" height="80" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="80" />
+  <img src="https://skillicons.dev/icons?i=html" height="80" />
+  <img src="https://skillicons.dev/icons?i=css" height="80" />
+  <img src="https://skillicons.dev/icons?i=js" height="80" />
+  <img src="https://skillicons.dev/icons?i=php" height="80" />
+  <img src="https://skillicons.dev/icons?i=java" height="80" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="80" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="80" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="80" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="80" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="80" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="80" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="80" />
+  <img src="https://skillicons.dev/icons?i=seaborn" height="80" />
+  <img src="https://skillicons.dev/icons?i=anaconda" height="80" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="80" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="80" />
+  <img src="https://skillicons.dev/icons?i=linux" height="80" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="80" />
 </p>
 
 ---
