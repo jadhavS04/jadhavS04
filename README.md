@@ -8,7 +8,7 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,c,cpp,html,css,js,php,java,tensorflow,pytorch,keras,sklearn,powerbi,mysql,numpy,pandas,matplotlib,seaborn,sklearn,tensorflow,pytorch,jupyter,anaconda,arduino,raspberrypi,linux,vscode" height="80" />
+  <img src="https://skillicons.dev/icons?i=python,r,c,cpp,html,css,js,php,java,tensorflow,pytorch,keras,sklearn,powerbi,mysql,numpy,pandas,matplotlib,seaborn,anaconda,arduino,raspberrypi,linux,vscode" height="80" />
 </p>
 
 
