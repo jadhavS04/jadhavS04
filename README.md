@@ -35,7 +35,7 @@
 ### 👨‍💻 About Me
 
 <div align="center">
-  I am a passionate technology enthusiast pursuing B.Tech in **AI & Data Science**. I bridge the gap between complex algorithms and real-world solutions.
+  I am a passionate technology enthusiast pursuing B.Tech in AI & Data Science. I bridge the gap between complex algorithms and real-world solutions.
 </div>
 
 ---
