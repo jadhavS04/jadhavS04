@@ -3,28 +3,33 @@
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7f00ff,0d1117&height=250&section=header&text=Shubham%20Jadhav&fontSize=80&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=AI%20&%20Data%20Science%20Engineer&descAlign=50&descSize=25)
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=B266FF&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Data+Engineering+%26+Pipelines;Computer+Vision+%26+NLP;Turning+Data+into+Decisions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=B266FF&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Data+Engineering+%26+Pipelines;Computer+Vision+%26+NLP+Expert;Turning+Data+into+Decisions" alt="Typing SVG" />
   </a>
 
-  <p>
-    <a href="https://github.com/jadhavS04" target="blank" title="GitHub: jadhavS04">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/shubham-jadhav-501a78286" target="blank" title="LinkedIn: Shubham Jadhav">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:shubhamvj04@gmail.com" title="Email: shubhamvj04@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.kaggle.com/ShubhamJadhav2304" target="blank" title="Kaggle: ShubhamJadhav2304">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/ShubhamJ2933" target="blank" title="Twitter: @ShubhamJ2933">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=jadhavS04&label=Profile%20Views&color=blueviolet&style=flat" alt="jadhavS04" />
+  </p>
+  
+  <p>
+    <a href="https://github.com/jadhavS04" target="_blank" title="GitHub: jadhavS04">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/shubham-jadhav-501a78286" target="_blank" title="LinkedIn: Shubham Jadhav">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:shubhamvj04@gmail.com" title="Email: shubhamvj04@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.kaggle.com/ShubhamJadhav2304" target="_blank" title="Kaggle: ShubhamJadhav2304">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/ShubhamJ2933" target="_blank" title="Twitter: @ShubhamJ2933">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+  </p>
 
-</div 
+</div>
+
 ---
 
 ### 👨‍💻 About Me
