@@ -1,59 +1,96 @@
-# Hi there 👋, I'm Shubham Jadhav  
-##  Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=jadhavS04&color=blueviolet)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science;Machine+Learning+%7C+Deep+Learning;Data+Visualization+%7C+NLP)](https://git.io/typing-svg)  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7f00ff,0d1117&height=250&section=header&text=Shubham%20Jadhav&fontSize=80&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=AI%20&%20Data%20Science%20Engineer&descAlign=50&descSize=25)
 
----
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=B266FF&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Data+Engineering+%26+Pipelines;Computer+Vision+%26+NLP+Expert;Turning+Data+into+Decisions" alt="Typing SVG" />
+  </a>
 
-## 🛠️ Tools & Technologies
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=jadhavS04&label=Profile%20Views&color=blueviolet&style=flat" alt="jadhavS04" />
+  </p>
+  
+  <p>
+    <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:YOUR-EMAIL@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://kaggle.com/jadhavS04" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+    </a>
+  </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="80" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="80" />
-</p> 
-
+</div>
 
 ---
 
-## 📊 GitHub Stats  
+### 👨‍💻 About Me
 
-### ⭐ Overall Stats  
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jadhavS04&show_icons=true&theme=radical)
-
-
-### ⭐ Top Languages  
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jadhavS04&layout=compact&theme=radical)
+<div align="center">
+  I am a passionate technology enthusiast pursuing B.Tech in **AI & Data Science**. I bridge the gap between complex algorithms and real-world solutions.
+</div>
 
 ---
 
-## 🏆 GitHub Contributions  
+### 🛠️ Tech Stack & Tools
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jadhavS04&theme=radical)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,cpp,java,c,js,html,css,php&perline=9" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,pandas,numpy,matplotlib&perline=7" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,vscode,arduino,raspberrypi,linux,androidstudio,git,github&perline=8" />
+  </a>
+</div>
 
 ---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jadhavS04&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+  <br><br>
+
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=jadhavS04&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavS04&theme=radical&hide_border=false" width="400" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavS04&layout=compact&theme=radical&langs_count=8" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/jadhavS04/jadhavS04/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+</div>
+
+---
+
+### 📌 Pinned Projects
+
+| **Project** | **Description** | **Tech Stack** |
+|:---:|:---|:---:|
+| 🧠 **AI Model Name** | Brief description of your advanced ML project. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![TF](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow) |
+| 📊 **Data Dashboard** | Visualization tool for large datasets. | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit) |
+| 🤖 **Robotics Controller** | Arduino/Pi based control system. | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino) |
+
+<div align="center">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7f00ff,0d1117&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlign=50&fontColor=ffffff&descAlign=50" width="100%">
+</div>
