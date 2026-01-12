@@ -20,6 +20,9 @@
     <a href="mailto:shubhamvj04@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+    <a href="https://medium.com/@shubhamjadhav04" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    </a>
     <a href="https://www.kaggle.com/ShubhamJadhav2304" target="_blank">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
     </a>
