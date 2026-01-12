@@ -108,5 +108,5 @@
 
 <div align="center">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7f00ff,0d1117&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlign=50&fontColor=ffffff&descAlign=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7f00ff,0d1117&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlign=50&fontColor=ffffff&descAlign=50" width="100%">
 </div>
