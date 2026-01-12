@@ -50,8 +50,5 @@
 
 ## 🏆 Contributions  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jadhavS04&theme=radical)  
-
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jadhavS04&theme=radical)
 
