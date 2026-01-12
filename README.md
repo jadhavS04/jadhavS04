@@ -99,7 +99,8 @@
 ### 🐍 Contribution History
 
 <div align="center">
-  <img src="https://github.com/jadhavS04/jadhavS04/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/jadhavS04/jadhavS04/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </div>
 
 <div align="center">
