@@ -43,12 +43,16 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhavS04&show_icons=true&theme=radical&cache_seconds=86400)  
+### ⭐ Overall Stats  
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jadhavS04&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavS04&layout=compact&theme=radical&cache_seconds=86400)  
+### ⭐ Top Languages  
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jadhavS04&layout=compact&theme=radical)
 
 ---
 
-## 🏆 Contributions  
+## 🏆 GitHub Contributions  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jadhavS04&theme=radical)
+
+---
