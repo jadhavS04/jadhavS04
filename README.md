@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000428,004e92&height=250&section=header&text=Shubham%20Jadhav&fontSize=80&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=%20%20%20%20&descAlign=50&descSize=25)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8B00FF&height=250&section=header&text=Shubham%20Jadhav&fontSize=80&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=%20%20%20%20&descAlign=50&descSize=25)
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Data+Engineering+%26+Pipelines;Computer+Vision+%26+NLP;Turning+Data+into+Decisions" alt="Typing SVG" />
