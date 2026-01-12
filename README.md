@@ -10,26 +10,29 @@
     <img src="https://komarev.com/ghpvc/?username=jadhavS04&label=Profile%20Views&color=blueviolet&style=flat" alt="jadhavS04" />
   </p>
   
-  <p>
-    <a href="https://github.com/jadhavS04" target="_blank" title="GitHub: jadhavS04">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/shubham-jadhav-501a78286" target="_blank" title="LinkedIn: Shubham Jadhav">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:shubhamvj04@gmail.com" title="Email: shubhamvj04@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.kaggle.com/ShubhamJadhav2304" target="_blank" title="Kaggle: ShubhamJadhav2304">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/ShubhamJ2933" target="_blank" title="Twitter: @ShubhamJ2933">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-  </p>
+<p>
+  <a href="https://github.com/jadhavS04" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="github" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/shubham-jadhav-501a78286" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin" />
+  </a>
+
+  <a href="mailto:shubhamvj04@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="gmail" />
+  </a>
+
+  <a href="https://twitter.com/ShubhamJ2933" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="twitter" />
+  </a>
+
+  <a href="https://www.kaggle.com/ShubhamJadhav2304" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kaggle_logo_icon_168474.png" height="45" style="border-radius: 10px;" alt="kaggle" />
+  </a>
+</p>
 
 </div>
-
 ---
 
 ### 👨‍💻 About Me
