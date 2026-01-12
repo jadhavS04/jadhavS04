@@ -57,28 +57,20 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
+  
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jadhavS04&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jadhavS04&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
   </a>
-  <br><br>
+  <br/>
 
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jadhavS04&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavS04&theme=radical&hide_border=false" width="400" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavS04&layout=compact&theme=radical&langs_count=8" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=jadhavS04&show_icons=true&theme=radical&rank_icon=github&count_private=true" height="180" alt="stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavS04&theme=radical&hide_border=false" height="180" alt="streak" />
+  </p>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavS04&layout=compact&theme=radical&langs_count=8" width="85%" alt="languages" />
+
 </div>
-
 ---
 
 ### 🐍 Contribution Snake
