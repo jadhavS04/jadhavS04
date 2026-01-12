@@ -84,10 +84,6 @@
 
 <div align="center">
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jadhavS04&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-  </a>
-  <br/>
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=jadhavS04&show_icons=true&theme=radical&rank_icon=github&count_private=true" height="180" alt="stats" />
