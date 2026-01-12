@@ -63,7 +63,7 @@
 | **Category** | **Technologies** |
 |:---:|:---|
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,c,java,r,js,php,html,css&theme=dark" /> |
-| **AI & Data** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn&theme=dark" /> <br> <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib&theme=dark" /> |
+| **AI & Data** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn&theme=dark" /><img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib&theme=dark" /> |
 | **Tools & OS** | <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,arduino,raspberrypi,androidstudio&theme=dark" /> |
 
 </div>>
