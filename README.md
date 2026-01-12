@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="80" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="80" />
 </p> 
 
 
@@ -43,12 +43,12 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhavS04&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavS04&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadhavS04&show_icons=true&theme=radical&cache_seconds=86400)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavS04&layout=compact&theme=radical&cache_seconds=86400)  
 
 ---
 
 ## 🏆 Contributions  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jadhavS04&theme=radical)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=jadhavS04&theme=radical)
