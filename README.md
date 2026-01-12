@@ -52,7 +52,6 @@
   </a>
 </div>
 
----
 
 ### 📊 GitHub Analytics
 
@@ -71,14 +70,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavS04&layout=compact&theme=radical&langs_count=8" width="85%" alt="languages" />
 
 </div>
----
-
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/jadhavS04/jadhavS04/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
-</div>
-
----
 
 
 
