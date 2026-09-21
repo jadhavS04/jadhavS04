@@ -149,19 +149,18 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jadhavS04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" height="180" />
-<img src="https://streak-stats.demolab.com?user=jadhavS04&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavS04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=jadhavS04&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180" />
 
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/jadhavS04/jadhavS04/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
 
 </div>
-
 <!-- ═══════════════ CONNECT ═══════════════ -->
 ## 🤝 Let's Connect
 
