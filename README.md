@@ -168,6 +168,6 @@ I'm looking for **fresher / entry-level roles** in AI agents, GenAI engineering 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,7c3aed,06b6d4&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&fontAlignY=65" alt="Footer" width="100%" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,7c3aed,06b6d4&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&fontAlignY=65" alt="Footer" width="100%](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6d28d9,100:0f172a&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&fontAlignY=65)" />
 
 </div>
