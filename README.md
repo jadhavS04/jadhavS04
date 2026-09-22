@@ -23,7 +23,8 @@
 <br/><br/>
 
 <!-- Custom animated SVG: keep the file at assets/agent-loop.svg in this repo -->
-<img src="./assets/agent-loop.svg" alt="Animated agent loop: perceive, plan, act, observe, reflect" width="100%" />
+<img src="./assets/agent-loop.svg" alt="Animated agent loop: perceive, plan, act, observe, reflect" width="100%" /> 
+<img src="./assets/agent-terminal.svg" alt="Agent boot sequence terminal animation" width="100%" />
 
 </div>
 
