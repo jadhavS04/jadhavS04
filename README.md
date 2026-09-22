@@ -78,12 +78,12 @@ Most agent builders are strong on prompts and weak on data. I come from the data
   <img src="https://images.credly.com/size/160x160/images/8ed4ffd5-a8c9-4a87-beef-cbda089ba52d/924fa467-1494-404f-9937-37c065ca8f45_cached_image_20260525-8-6lmiwm.png" alt="Badge 2 — name TBD" width="110" />
 </a>
 <a href="https://www.credly.com/users/shubham-jadhav.c3dac833">
-  <img src="https://images.credly.com/size/128x128/images/9a78c610-0092-4986-998f-e8c2360480bd/b3dc0502-9a13-4337-8da9-7a2b7dbd2612_cached_image_20260525-30-5l98uv.png" alt="Badge 3 — name TBD" width="110" />
+  <img src="https://images.credly.com/size/160x160/images/9a78c610-0092-4986-998f-e8c2360480bd/b3dc0502-9a13-4337-8da9-7a2b7dbd2612_cached_image_20260525-30-5l98uv.png" alt="Badge 3 — name TBD" width="110" />
 </a>
 
 </div>
 
-</div>
+
  
 <details>
 <summary><b>🧩 How I structure a data agent (click to expand)</b></summary>
