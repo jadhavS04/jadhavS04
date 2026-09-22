@@ -148,7 +148,7 @@ flowchart LR
 </table>
 
 <!-- ═══════════════ ANALYTICS ═══════════════ -->
-<img src="./metrics.svg" alt="Animated isometric contribution calendar" width="100%" />
+
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -164,7 +164,13 @@ flowchart LR
 
 <img src="https://raw.githubusercontent.com/jadhavS04/jadhavS04/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
 
-</div>
+</div> 
+
+<br/>  
+
+<img src="./metrics.svg" alt="Animated isometric contribution calendar" width="100%" /> 
+
+<br/><br/>
 <!-- ═══════════════ CONNECT ═══════════════ -->
 ## 🤝 Let's Connect
 
