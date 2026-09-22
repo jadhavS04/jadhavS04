@@ -67,22 +67,6 @@ Most agent builders are strong on prompts and weak on data. I come from the data
 | **Data + agents** | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) <br/> `text-to-SQL over real schemas` `PySpark ingestion into RAG` `Vector Search` `Model Serving` `Unity Catalog` |
 | **Applied ML & CV** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) `YOLO` `scikit-learn` |
 
-## 🎓 Certifications
-
-<div align="center">
-
-<a href="https://www.credly.com/users/shubham-jadhav.c3dac833">
-  <img src="https://images.credly.com/size/680x680/images/73c08e76-eb9c-4c03-92da-3dad49e99e5a/Getting_Started_With_Artificial_Intelligence_Badge.png" alt="Getting Started With Artificial Intelligence" width="110" />
-</a>
-<a href="https://www.credly.com/users/shubham-jadhav.c3dac833">
-  <img src="https://images.credly.com/size/160x160/images/8ed4ffd5-a8c9-4a87-beef-cbda089ba52d/924fa467-1494-404f-9937-37c065ca8f45_cached_image_20260525-8-6lmiwm.png" alt="Badge 2 — name TBD" width="110" />
-</a>
-<a href="https://www.credly.com/users/shubham-jadhav.c3dac833">
-  <img src="https://images.credly.com/size/160x160/images/9a78c610-0092-4986-998f-e8c2360480bd/b3dc0502-9a13-4337-8da9-7a2b7dbd2612_cached_image_20260525-30-5l98uv.png" alt="Badge 3 — name TBD" width="110" />
-</a>
-
-</div>
-
 
  
 <details>
