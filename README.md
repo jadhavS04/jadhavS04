@@ -71,8 +71,8 @@ Most agent builders are strong on prompts and weak on data. I come from the data
 
 <div align="center">
 
-<a href="CREDLY_BADGE_URL"><img src="https://api.accredible.com/v1/obi/badge_assertions/f5a2aed4-3783-4888-b0af-f2a1946a31fa" alt="Databricks Lakehouse Fundamentals" width="90" /></a>
-<a href="CREDLY_BADGE_URL_2"><img src="CREDLY_IMAGE_URL_2" alt="Claude Academy" width="90" /></a>
+<a href="[CREDLY_BADGE_URL](https://api.accredible.com/v1/obi/badge_assertions/f5a2aed4-3783-4888-b0af-f2a1946a31fa)"><img src="https://api.accredible.com/v1/obi/badge_assertions/f5a2aed4-3783-4888-b0af-f2a1946a31fa" alt="Databricks Lakehouse Fundamentals" width="90" /></a>
+<a href="[CREDLY_BADGE_URL_2](https://www.credly.com/badges/9960093d-3c64-4722-a21e-d8f14d38737f/public_url)"><img src="[CREDLY_IMAGE_URL_2](https://www.credly.com/badges/9960093d-3c64-4722-a21e-d8f14d38737f/public_url)" alt="Claude Academy" width="90" /></a>
 
 </div>
  
