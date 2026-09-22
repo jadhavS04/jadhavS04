@@ -67,12 +67,7 @@ Most agent builders are strong on prompts and weak on data. I come from the data
 | **Data + agents** | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) <br/> `text-to-SQL over real schemas` `PySpark ingestion into RAG` `Vector Search` `Model Serving` `Unity Catalog` |
 | **Applied ML & CV** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) `YOLO` `scikit-learn` |
 
-## 🎓 Certifications
 
-<div align="center">
-
-<a href="https://api.accredible.com/v1/obi/badge_assertions/f5a2aed4-3783-4888-b0af-f2a1946a31fa)"><img src="[https://api.accredible.com/v1/obi/badge_assertions/f5a2aed4-3783-4888-b0af-f2a1946a31fa](https://images.credly.com/size/680x680/images/73c08e76-eb9c-4c03-92da-3dad49e99e5a/Getting_Started_With_Artificial_Intelligence_Badge.png)" alt="Databricks Lakehouse Fundamentals" width="90" /></a>
-<a href="https://www.credly.com/badges/9960093d-3c64-4722-a21e-d8f14d38737f/public_url)"><img src="https://www.credly.com/badges/9960093d-3c64-4722-a21e-d8f14d38737f/public_url" alt="Claude Academy" width="90" /></a>
 
 </div>
  
