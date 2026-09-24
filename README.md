@@ -58,7 +58,7 @@ Most agent builders are strong on prompts and weak on data. I come from the data
 <!-- ═══════════════ STACK ═══════════════ -->
 ## 🛠️ Agent Engineering Stack
 
-| Layer | What I work with |
+| Layer | What I learning and working with |
 |---|---|
 | **Core engineering** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) <br/> `async Python` |
 | **LLM apps** | ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white) `structured outputs` `tool calling` `streaming` `prompt caching` `token-cost tracking` `model selection` |
