@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Open%20to%20Work-Fresher%20Roles-22c55e?style=for-the-badge" alt="Open to work" />
 <img src="https://komarev.com/ghpvc/?username=jadhavS04&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/shubham-jadhav-501a78286"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:shubhamvj04@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
