@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=50&lines=Building+AI+agents+that+plan%2C+use+tools+and+self-correct;LangGraph+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+FastAPI+%C2%B7+Databricks;Text-to-SQL+agents+on+real+schemas;Ship+it.+Trace+it.+Evaluate+it." alt="Typing animation" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-Fresher%20Roles-22c55e?style=for-the-badge" alt="Open to work" />
 <img src="https://komarev.com/ghpvc/?username=jadhavS04&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
